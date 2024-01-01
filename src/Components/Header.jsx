@@ -10,7 +10,10 @@ const Header = () => {
 						to="/"
 						className="text-4xl md:text-4xl font-extrabold text-gray-100 hover:text-gray-300 transition duration-300 text-center transform hover:scale-110"
 					>
-						Awesome Blogs
+						<img
+							src="https://res.cloudinary.com/hamzanafasat/image/upload/v1704072619/Blog%20Landing%20Page%20React/daomluuxyasucf9ap93z.png"
+							alt="Awsome Blog"
+						/>
 					</Link>
 				</div>
 
